@@ -1,0 +1,6 @@
+# - merkill‰ alkavat rivit sivuutetaan
+# - seuraava rivi m‰‰ritt‰‰, ett‰ ei j‰ljitet‰ .a -tiedostoja
+*.a 
+
+# - seuraava rivi sivuuttaa kaikki tiedstot temp/ -hakemistosta
+temp/
